@@ -1,7 +1,7 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name:
+### Name:G Dhanush
 
-### Register Number:
+### Register Number:2305002006
 
 ### Aim:
 To find the PEAS description for the given AI problem and develop an AI agent.
@@ -115,7 +115,17 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ### Sample Output:
+Chess Board Agent
+![WhatsApp Image 2025-09-22 at 22 00 12_265e96df](https://github.com/user-attachments/assets/c15c362b-aa66-481a-ba81-870aa28acd9d)
+Moves from our side
+![WhatsApp Image 2025-09-22 at 22 00 12_8f2c847f](https://github.com/user-attachments/assets/1d58ec83-ce60-45f9-bb2a-e4b8ae6a3916)
+Ai Moves
+![WhatsApp Image 2025-09-22 at 22 00 13_f6d62cec](https://github.com/user-attachments/assets/e6f6c043-b492-4c5a-9825-9065063b9d71)
 
-425810495-d1198ba7-da19-413b-9907-4844afae627f
+
+
+
+
 
 ### Result:
+Thus, the program to Develope-AI-Agent-with-PEAS-Description is successfully executed.
