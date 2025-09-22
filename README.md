@@ -116,11 +116,14 @@ agent.print_status()
 ```
 ### Sample Output:
 Chess Board Agent
-![WhatsApp Image 2025-09-22 at 22 00 12_265e96df](https://github.com/user-attachments/assets/c15c362b-aa66-481a-ba81-870aa28acd9d)
+![1](https://github.com/user-attachments/assets/b827c8a7-d7e5-436c-801a-fdc9a75ef8a7)
+
 Moves from our side
-![WhatsApp Image 2025-09-22 at 22 00 12_8f2c847f](https://github.com/user-attachments/assets/1d58ec83-ce60-45f9-bb2a-e4b8ae6a3916)
+![2](https://github.com/user-attachments/assets/d9099979-078e-4785-ab3a-346152ee4a73)
+
 Ai Moves
-![WhatsApp Image 2025-09-22 at 22 00 13_f6d62cec](https://github.com/user-attachments/assets/e6f6c043-b492-4c5a-9825-9065063b9d71)
+
+![3](https://github.com/user-attachments/assets/eaf34c6b-e51a-432a-88c2-52abe6147ac6)
 
 
 
