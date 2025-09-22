@@ -116,9 +116,11 @@ agent.print_status()
 ```
 ### Sample Output:
 Chess Board Agent
+
 ![1](https://github.com/user-attachments/assets/b827c8a7-d7e5-436c-801a-fdc9a75ef8a7)
 
 Moves from our side
+
 ![2](https://github.com/user-attachments/assets/d9099979-078e-4785-ab3a-346152ee4a73)
 
 Ai Moves
